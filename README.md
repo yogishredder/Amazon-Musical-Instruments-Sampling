@@ -29,7 +29,4 @@ There are also graphs that plot histogram & normal distribution
 2. Download Data from https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews and place in Dataset folder
 3. Open .ipynb file
 4. Run 
-## Authors
-
-- [@Prayogi Adista](https://www.linkedin.com/in/prayogi-adista-purwanto-89878476/)
 
